@@ -1,1 +1,1 @@
-# LLM_Chatbot
+The LLM Chatbot is a little more complex than the simple chatbot because it returns responses using the pre-trained DialoGPT model and tokenizer.  It's not as sophisticated as GPT-4, by a long shot (it returns some hilariously bad responses) but - unlike the OpenAI and Anthropic APIs - it's free!
